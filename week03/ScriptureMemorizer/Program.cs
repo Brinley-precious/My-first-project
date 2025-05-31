@@ -28,3 +28,7 @@ class Program
         Console.WriteLine("\nAll words hidden. Program complete.");
     }
 }
+// EXCEEDED REQUIREMENTS:
+// 1. Scripture words are only hidden if not already hidden.
+// 2. Program ends automatically when all words are hidden.
+// 3. Used List<Word> and LINQ to dynamically manage which words to hide, etc.
