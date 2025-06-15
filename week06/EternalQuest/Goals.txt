@@ -1,0 +1,4 @@
+450
+3
+SimpleGoal|Meet accountability partner|have a 1hr meeting with accountability partner twice a week|50|True
+ChecklistGoal|mindfulness|meditate and practice mindfulness weekly|70|1000|3|3
